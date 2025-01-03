@@ -1,0 +1,1 @@
+Learning fuzzing by finding bugs in my own C code; in this case the code in this repo https://github.com/stfnw/arithmetic-expressions-calc: A simple calculator evaluating expressions by different ways (interpreting the AST, evaluating the expression in a VM, JITting the AST, and compiling the AST to a standalone ELF64 executable file).
