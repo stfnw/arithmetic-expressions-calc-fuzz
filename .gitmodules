@@ -1,0 +1,3 @@
+[submodule "arithmetic-expressions-calc"]
+	path = arithmetic-expressions-calc
+	url = https://github.com/stfnw/arithmetic-expressions-calc
