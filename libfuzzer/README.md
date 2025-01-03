@@ -19,4 +19,4 @@ $ ./target
 
 # Identified bugs
 
-TODO
+The files `crash-<HASH>` contain the respective input for each crash, while the files `report-<HASH>.txt` contain the crash/asan report.
